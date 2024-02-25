@@ -8,7 +8,7 @@
 图片下载应用是一个基于Python和Qt框架开发的应用程序，旨在帮助用户轻松地搜索、选择和下载互联网上的图片资源。通过简洁直观的界面和强大的功能，用户可以快速获取他们感兴趣的图片，适用于个人收藏、项目素材等多种用途。
 
 ## 注意事项
-
+- ***请注意***：本应用必须使用 Edge 浏览器才能正常运行！🚀
 - ***本应用程序仅供个人学习和非商业用途，请勿用于商业目的。***
 - ***下载的图片可能受版权保护，请确保在合法范围内使用。***
 - ***如有任何问题或建议，请联系开发团队，我们将尽力提供支持和改进。***
@@ -87,7 +87,7 @@
 The Image Downloader is an application developed based on Python and the Qt framework, aiming to assist users in easily searching, selecting, and downloading images from the internet. With a clean and intuitive interface and powerful features, users can quickly obtain the images they are interested in, suitable for various purposes such as personal collections, project materials, and more.
 
 ## Notes
-
+- ***Please Note***: This application requires the Edge browser to function properly! 🚀
 - ***This application is for personal learning and non-commercial use only. Please do not use it for commercial purposes.***
 - ***Downloaded images may be subject to copyright protection. Please ensure legal use.***
 - ***If you have any questions or suggestions, please contact the development team. We will do our best to provide support and improvements.***
