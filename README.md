@@ -62,15 +62,19 @@
 ## 操作说明
 
 - **1.运行exe或者在编译器执行，出现以下界面，无法运行或报错退出代 表无法运行该程序**
+- 
 ![Alt text](image_md/1.png)
 
 - **2.按照使用说明操作**
+- 
 ![Alt text](image_md/2.png)
 
 - **3.点击下载即可开始下载图片到目标目录**
+- 
 ![Alt text](image_md/3.png)
 
 - **4.点击保存记录可以保存当前搜索记录**
+- 
 ![Alt text](image_md/4.png)
 ---
 <div lang="en">
@@ -134,15 +138,19 @@ The Image Downloader is an application developed based on Python and the Qt fram
 ## Operation Instructions
 
 - **1. Run the .exe file or execute in a compiler. If the following interface appears, failure to run or exiting with an error indicates that the program cannot run.**
+- 
 ![Alt text](image_md/1.png)
 
 - **2. Follow the instructions for use.**
+- 
 ![Alt text](image_md/2.png)
 
 - **3. Click "Download" to start downloading images to the target directory.**
+- 
 ![Alt text](image_md/3.png)
 
 - **4. Click "Save Record" to save the current search record.**
+- 
 ![Alt text](image_md/4.png)
 
 ---
